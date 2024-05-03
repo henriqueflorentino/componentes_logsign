@@ -4,7 +4,9 @@
 ### 🌐 Confira o ambiente!
 > Para dispostivos Mobile e Desktop
 
-[Login e Cadastro || Clique para acessar!]()
+[Login e Cadastro || Clique para acessar!](https://logsig.netlify.app/)
 
 ### 💡 Vídeo demonstrativo:
+
+https://github.com/henriqueflorentino/componentes_logsign/assets/94813609/d8eb3c12-5f2d-4cc2-95f0-9937034dc9f7
 
